@@ -1,0 +1,21 @@
+//PrimaryColors
+$cyan: hsl(179, 62%, 43%);
+$brightYellow: hsl(71, 73%, 54%);
+
+//NeutralColors
+
+$lightgray: hsl(204, 43%, 93%);
+$grayishBlue: hsl(218, 22%, 67%);
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-size: 16px;
+	font-family: "Karla", sans-serif;
+}

@@ -1,1 +1,12 @@
-/*# sourceMappingURL=main.css.map */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-size: 16px;
+  font-family: "Karla", sans-serif;
+}/*# sourceMappingURL=main.css.map */
