@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/apparel-coming-soon-KnncpupzY2
-- Live Site URL: https://arekr93.github.io/Base_apparel/
+- Solution URL: https://www.frontendmentor.io/solutions/single-price-component-dtxoz1dT_K
+- Live Site URL: https://arekr93.github.io/Single_price/
 
 ## My process
 
